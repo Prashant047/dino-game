@@ -1,2 +1,2 @@
 # dino-game
-![]('build/images/elements/arrow.png')
+![](build/images/screenshot/dino.png)
